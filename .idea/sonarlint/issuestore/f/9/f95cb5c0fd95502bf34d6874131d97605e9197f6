@@ -1,0 +1,7 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ιέ—σόÿÿÿÿ8•–λΠ1
+T
+java:S6126"2Replace this String concatenation with Text block.(ιέ—σόÿÿÿÿ8•–λΠ1
+m	java:S128E"LEnd this switch case with an unconditional break, return or throw statement.(—ΝΧ©ψÿÿÿÿ8•–λΠ1
+m	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(£ήΎΛώÿÿÿÿ8•–λΠ1
+G	java:S106H"+Replace this use of System.out by a logger.(ΥΏ…8––λΠ1
